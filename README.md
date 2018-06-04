@@ -1,1 +1,1 @@
-# kutlist.sh
+kutlist.sh for OnlineTVRecorder recordings
